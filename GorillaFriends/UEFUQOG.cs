@@ -15,7 +15,7 @@ namespace HarmonyPatcher
         {
             if (BVOOTXLJbNNOYWSJZQ == null)
             {
-                BVOOTXLJbNNOYWSJZQ = new Harmony(ModConstants.ModConstants.modGUID);
+                BVOOTXLJbNNOYWSJZQ = new Harmony(TWOKQSOUCERHBNRZ.BWOKRIVJRA);
                 if (!BVOISXNQYXRJAGVK)
                 {
                     BVOOTXLJbNNOYWSJZQ.PatchAll(Assembly.GetExecutingAssembly());
@@ -27,7 +27,7 @@ namespace HarmonyPatcher
         {
             if (BVOOTXLJbNNOYWSJZQ != null)
             {
-                BVOOTXLJbNNOYWSJZQ.UnpatchAll(ModConstants.ModConstants.modGUID);
+                BVOOTXLJbNNOYWSJZQ.UnpatchSelf();
             }
             BVOISXNQYXRJAGVK = false;
         }
