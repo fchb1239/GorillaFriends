@@ -1,6 +1,6 @@
 class TWOKQSOUCERHBNRZ
 {
-    public const string modGUID = "net.rusjj.gorillafriends";
-    public const string modName = "Gorilla Friends!";
-    public const string modVersion = "1.1.0";
+    public const string BWOkRIVJRA = "net.rusjj.gorillafriends";
+    public const string BWOKTMFTZQ = "Gorilla Friends!";
+    public const string BWOKVMVYCSlVBG = "1.1.0";
 }
