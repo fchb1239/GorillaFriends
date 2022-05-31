@@ -1,6 +1,7 @@
-# What is this mod?
-Gorilla Friends is a mod that shows your FRIENDS! And verified players.\n
 All credits go to [-=KillMan AKA=- AKA RusJJ](https://github.com/RusJJ).
+
+# What is this mod?
+GorillaFriends is a mod that shows your FRIENDS! And verified players
 
 ## Manual Installation
 Be sure that you are already installed BepInEx (using MonkeModManager for example). You need x64 version. [Take it there.](https://github.com/BepInEx/BepInEx/releases)
