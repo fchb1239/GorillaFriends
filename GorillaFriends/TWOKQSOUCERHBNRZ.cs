@@ -1,6 +1,6 @@
 class TWOKQSOUCERHBNRZ
 {
-    public const string BWOkRIVJRA = "net.rusjj.gorillafriends";
+    public const string BWOKRIVJRA = "net.rusjj.gorillafriends";
     public const string BWOKTMFTZQ = "Gorilla Friends!";
-    public const string BWOKVMVYCSlVBG = "1.1.0";
+    public const string BWOKVMVYCSIVBG = "1.1.0";
 }
