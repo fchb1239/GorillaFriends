@@ -1,4 +1,4 @@
-﻿using System.IO;
+using System.IO;
 using System.Net.Http;
 
 namespace GorillaFriends
@@ -10,28 +10,28 @@ namespace GorillaFriends
         
         async public static void VKVSSUZJRUQ()
         {
-            HttpClient client = new HttpClient();
-            string result = await client.GetStringAsync(VR);
-            using (StringReader reader = new StringReader(result))
+            HttpClient YSXPZWSO = new HttpClient();
+            string CMVZDWX = await YSXPZWSO.GetStringAsync(VR);
+            using (StringReader CMVHZGVY = new StringReader(CMVZDWX))
             {
-                string line;
-                while ((line = reader.ReadLine()) != null)
+                string BGLUZQ;
+                while ((BGLUZQ = CMVHZGVY.ReadLine()) != null)
                 {
-                    Main.m_listVerifiedUserIds.Add(line);
+                    TWFPBG.BVOSAXNOVMVYAWZPZWRVC2VYSWRZ.Add(BGLUZQ);
                 }
             }
         }
         
         async public static void QKXBQOTMSVNURUQ()
         {
-            HttpClient client = new HttpClient();
-            string result = await client.GetStringAsync(BL);
-            using (StringReader reader = new StringReader(result))
+            HttpClient YSXPZWSO = new HttpClient();
+            string CMVZDWX = await YSXPZWSO.GetStringAsync(BL);
+            using (StringReader CMVHZGVY = new StringReader(CMVZDWX))
             {
-                string line;
-                while ((line = reader.ReadLine()) != null)
+                string BGLUZQ;
+                while ((BGLUZQ = CMVHZGVY.ReadLine()) != null)
                 {
-                    Main.m_listVerifiedUserIds.Add(line);
+                    TWFPBG.VUSGUKLFTKRBQKXF.Add(BGLUZQ);
                 }
             }
         }
